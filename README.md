@@ -1,29 +1,39 @@
 # Solana 智能合约开发入门教程
 
-## 中文版
+Solana 智能合约入门教程与示例代码。  
+Solana smart contract tutorials with code examples.
 
-这个一个零基础系列教程，可以从最基础的操作开始学会 Solana 智能合约的开发。
+---
 
-- 《[第一篇](./Solana智能合约开发入门教程（一）.md)》：基础环境安装、HelloWorld 合约部署、链上合约调用
-  - 代码库：[./hello_sol/](./hello_sol/)
-- 《[第二篇](./Solana智能合约开发入门教程（二）.md)》：实现 USDT 合约的最小模型，自定义数据结构与方法
-  - 代码库：[./usdt_clone/](./usdt_clone/)
-- 《[第三篇](./Solana智能合约开发入门教程（三）.md)》：使用官方 SPL 库复用合约功能，完成标准化代币的发行
-  - 代码库：[./usdt_spl/](./usdt_spl/)
+## 中文教程
 
-## English Version
+一个为零基础开发者准备的系列教程，从环境搭建到标准代币的完整开发流程：
 
-This is a beginner-friendly tutorial series designed to help you learn how to develop Solana smart contracts from scratch.
+- [第一篇](./Solana智能合约开发入门教程（一）.md)：基础环境安装、HelloWorld 合约部署、链上合约调用
+- [第二篇](./Solana智能合约开发入门教程（二）.md)：实现 USDT 合约的最小模型，自定义数据结构与方法
+- [第三篇](./Solana智能合约开发入门教程（三）.md)：使用官方 SPL 库复用合约功能，完成标准化代币的发行
 
-- [Part 1](./Getting%20Started%20with%20Solana%20Smart%20Contract%20Development%20(Part%201).md): Environment setup, HelloWorld contract deployment, on-chain invocation  
-  - Codebase: [./hello_sol/](./hello_sol/)
-- [Part 2](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20(Part%202).md): Minimal USDT-like contract, custom data structures and methods  
-  - Codebase: [./usdt_clone/](./usdt_clone/)
-- [Part 3](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20(Part%203).md): Using official SPL libraries to implement standard token minting  
-  - Codebase: [./usdt_spl/](./usdt_spl/)
+## English Tutorials
+
+Beginner-friendly guide to Solana smart contract development, covering everything from setup to token minting:
+
+- [Part 1](./Getting%20Started%20with%20Solana%20Smart%20Contract%20Development%20(Part%201).md): Environment setup, HelloWorld contract deployment, on-chain invocation
+- [Part 2](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20(Part%202).md): Minimal USDT-like contract, custom data structures and methods
+- [Part 3](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20(Part%203).md): Using official SPL libraries to implement standard token minting
+
+## 示例代码 / Codebases
+
+- [`hello_sol/`](./hello_sol/) – 配套 HelloWorld 合约工程  
+  *(A simple HelloWorld contract project)*
+
+- [`usdt_clone/`](./usdt_clone/) – 自定义 USDT 合约工程  
+  *(A custom USDT-like token implementation)*
+
+- [`usdt_spl/`](./usdt_spl/) – 使用 SPL 库构建标准代币  
+  *(A token contract using the official SPL libraries)*
 
 ## 说明 / Contributing
-欢迎对本系列教程提出建议、指出错误或贡献补充内容。你可以直接提 PR，也可以通过 issue 交流。如果你在学习过程中遇到问题，也欢迎提问 —— 虽然不保证回答，但我会看。
 
-This tutorial is open to community contributions. Feel free to open an issue or submit a pull request if you find any mistakes, want to improve explanations, or add new content. Teaching Solana is hard, but reading PRs is not.
+欢迎对本系列教程提出建议、指出错误或贡献补充内容。你可以直接提 PR，也可以通过 issue 交流。
 
+Feel free to open issues or pull requests if you spot any mistakes or want to contribute improvements.
