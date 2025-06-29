@@ -17,9 +17,10 @@ Solana smart contract tutorials with code examples.
 
 Beginner-friendly guide to Solana smart contract development, covering everything from setup to token minting:
 
-- [Part 1](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20Part%201.md): Environment setup, HelloWorld contract deployment, on-chain invocation
-- [Part 2](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20Part%202.md): Minimal USDT-like contract, custom data structures and methods
-- [Part 3](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20Part%203.md): Using official SPL libraries to implement standard token minting
+- [Part 1](./Getting-Started-with-Solana-Smart-Contract-Development-Part-1.md): Environment setup, HelloWorld contract deployment, on-chain invocation
+- [Part 2](./Getting-Started-with-Solana-Smart-Contract-Development-Part-2.md): Minimal USDT-like contract, custom data structures and methods
+- [Part 3](./Getting-Started-with-Solana-Smart-Contract-Development-Part-3.mdd): Using official SPL libraries to implement standard token minting
+
 
 ## 示例代码 / Codebases
 

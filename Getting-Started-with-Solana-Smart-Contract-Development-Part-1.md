@@ -9,9 +9,9 @@ draft_date: 2025-06-24 18:36:25
 
 > This is a zero-to-one tutorial series that will teach you how to develop Solana smart contracts from the very basics.  
 > 
-> - **[Part 1](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20Part%201.md)**: setting up the environment, deploying the HelloWorld contract, and calling the on-chain program  
-> - **[Part 2](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20Part%202.md)**: implementing a minimal USDT-like contract with custom data structures and methods  
-> - **[Part 3](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20Part%203.md)**: reusing the official SPL libraries to issue a standards-compliant token
+> - **[Part 1](./Getting-Started-with-Solana-Smart-Contract-Development-Part-1.md)**: setting up the environment, deploying the HelloWorld contract, and calling the on-chain program  
+> - **[Part 2](./Getting-Started-with-Solana-Smart-Contract-Development-Part-2.md)**: implementing a minimal USDT-like contract with custom data structures and methods  
+> - **[Part 3](./Getting-Started-with-Solana-Smart-Contract-Development-Part-3.md)**: reusing the official SPL libraries to issue a standards-compliant token
 
 We will start with the most fundamental operations to learn Solana smart-contract development. A general programming background and understanding of object-oriented concepts is enough—you do **not** need prior experience with smart contracts on other networks, nor with Rust itself.
 
