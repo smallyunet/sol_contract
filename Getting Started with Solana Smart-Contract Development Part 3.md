@@ -8,9 +8,9 @@ tags:
 
 > This is a zero-to-one tutorial series that teaches you Solana smart-contract development from the very basics.  
 > 
-> - **[Part 1](./Getting%20Started%20with%20Solana%20Smart%20Contract%20Development%20(Part%201).md)**: setting up the environment, deploying the HelloWorld contract, and calling the on-chain program  
-> - **[Part 2](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20(Part%202).md)**: implementing a minimal USDT-like contract with custom data structures and methods  
-> - **[Part 3](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20(Part%203).md)**: reusing the official SPL libraries to issue a standards-compliant token
+> - **[Part 1](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20Part%201.md)**: setting up the environment, deploying the HelloWorld contract, and calling the on-chain program  
+> - **[Part 2](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20Part%202.md)**: implementing a minimal USDT-like contract with custom data structures and methods  
+> - **[Part 3](./Getting%20Started%20with%20Solana%20Smart-Contract%20Development%20Part%203.md)**: reusing the official SPL libraries to issue a standards-compliant token
 
 While writing smart contracts, the program logic itself is relatively lightweight; the complex part is often the various `#[account]` macros and their parameters—whether an account may be auto-created, how many bytes of rent-exempt space to reserve, and so on. Because every Solana account’s data must be loaded into a validator’s RAM (a costly resource), developers must be precise about space usage. Solana’s account model therefore takes a bit of getting used to.
 
